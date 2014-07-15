@@ -5,6 +5,6 @@ Web Development Resources
 
 ### Javascript
 
-### Restful Routes
-
-- [ ] [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)  URL: http://guides.rubyonrails.org/routing.html
+### Web Development
+- [ ] Restful Routes
+- [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)  URL: http://guides.rubyonrails.org/routing.html
