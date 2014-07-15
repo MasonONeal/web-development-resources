@@ -1,7 +1,7 @@
 Web Development Resources
 =========================
 
-### Ruby
+## Ruby
 
 ### Javascript
 
