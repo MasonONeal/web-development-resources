@@ -18,5 +18,5 @@ Web Development Resources
 ### Git
 - **Pro Git** by Scott Chacon  ( http://www.git-scm.com/doc ) 
 
-- **tryGit** Online course (basic)  ( https://www.codeschool.com/courses/try-git )
+- **tryGit**  - Online course - basic intro to Git  ( https://www.codeschool.com/courses/try-git )
 
