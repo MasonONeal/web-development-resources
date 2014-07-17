@@ -17,6 +17,6 @@ Web Development Resources
 
 ### Git
 - **Pro Git** by Scott Chacon  ( http://www.git-scm.com/doc )  Excellent online book - covers the basics
-- **tryGit**  Online course - basic intro to Git  ( https://www.codeschool.com/courses/try-git )
-- **Git Real**  Online course - longer & more advanced ( https://www.codeschool.com/courses/git-real )
+- **tryGit**  ( https://www.codeschool.com/courses/try-git )  Online course - basic intro to Git 
+- **Git Real**  ( https://www.codeschool.com/courses/git-real )  Online course - longer & more advanced 
 
