@@ -3,7 +3,7 @@ Web Development Resources
 
 ### Ruby  
 
-( http://www.manning.com/black2/ )  Excellent, clear explanations, comprehensive. Recommended after you have the basics down.
+- **The Well-Grounded Rubyist** ( http://www.manning.com/black2/ )  Excellent book, clear explanations, comprehensive. Recommended after you have the basics down.
 
 ### Object-oriented programming (OOP)
 
