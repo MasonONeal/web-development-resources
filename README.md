@@ -17,7 +17,8 @@ Web Development Resources
 
 
 #### Restful Routes  
-- **Rails Routing from the Outside In**  ( http://guides.rubyonrails.org/routing.html )  
+- **Rails Routing from the Outside In**  ( http://guides.rubyonrails.org/routing.html )  Key reference to REST
+- **A Beginner's Guide to HTTP and REST** ( http://code.tutsplus.com/tutorials/a-beginners-introduction-to-http-and-rest--net-16340 )  Very clear explanation of REST. One of the best clear explanations of REST online.
 
 ### Git
 - **Pro Git** by Scott Chacon  ( http://www.git-scm.com/doc )  Excellent online book - covers the basics
