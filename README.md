@@ -2,7 +2,7 @@ Web Development Resources
 =========================
 
 ### Ruby  
-
+- **Ruby course at Code Academy** ( http://www.codecademy.com/en/tracks/ruby )  Online coding lessons, beginning level.
 - **The Well-Grounded Rubyist** ( http://www.manning.com/black2/ )  Excellent book, clear explanations, comprehensive. Recommended after you have the basics down.
 
 ### Object-oriented programming (OOP)
