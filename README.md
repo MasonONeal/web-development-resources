@@ -7,6 +7,8 @@ Web Development Resources
 
 ### Object-oriented programming (OOP)
 
+- **Practical Object-Oriented Design in Ruby (POODR)** ( http://www.poodr.com )  Amazing book. Advanced OOP and code design topics.
+
 
 ### Javascript
 
