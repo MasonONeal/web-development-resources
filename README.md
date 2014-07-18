@@ -3,6 +3,8 @@ Web Development Resources
 
 ### Ruby  
 
+( http://www.manning.com/black2/ )  Excellent, clear explanations, comprehensive. Recommended after you have the basics down.
+
 ### Object-oriented programming (OOP)
 
 
