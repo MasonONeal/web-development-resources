@@ -13,8 +13,8 @@ I wanted to make a list of some of the best resources available that would be us
 
 
 ### Javascript
+- **Ruby course at Code Academy** ( http://www.codecademy.com/tracks/javascript )  Online coding lessons, beginning level.
 
- 
 ### Web Development 
 
 
