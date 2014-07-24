@@ -34,5 +34,5 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Git Real**  ( https://www.codeschool.com/courses/git-real )  Online course - longer & more advanced 
 
 ### Regular Expressions RegEx
-Rubular
-- **Ruby course at Code Academy** ( http://www.codecademy.com/tracks/javascript )
+- **Rubular** ( http://rubular.com )
+- **RegEx in JavaScript** ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions )
