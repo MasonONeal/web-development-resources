@@ -33,3 +33,6 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **tryGit**  ( https://www.codeschool.com/courses/try-git )  Online course - basic intro to Git 
 - **Git Real**  ( https://www.codeschool.com/courses/git-real )  Online course - longer & more advanced 
 
+### Regular Expressions RegEx
+Rubular
+- **Ruby course at Code Academy** ( http://www.codecademy.com/tracks/javascript )
