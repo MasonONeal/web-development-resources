@@ -9,8 +9,10 @@ I wanted to make a list of some of the best resources for someone who is learnin
 
 ### Rails
 
-- **Rails 4 in Action** (  )
-
+- **Rails 4 in Action** ( http://www.manning.com/bigg2/ )
+http://www.railstutorial.org/book
+- **Rails 4 in Action** ( http://www.manning.com/bigg2/ )
+- **Agile Web Development with Rails 4** ( http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564 )
 
 ### Object-oriented programming (OOP)
 
