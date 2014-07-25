@@ -14,7 +14,7 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Agile Web Development with Rails 4** ( http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564 )
 
 ### Testing 
-- **RSpec**
+- **RSpec Website** ( http://rspec.info )
 
 
 ### Object-oriented programming (OOP)
