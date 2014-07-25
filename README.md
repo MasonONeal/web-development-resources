@@ -34,5 +34,6 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Git Real**  ( https://www.codeschool.com/courses/git-real )  Online course - longer & more advanced 
 
 ### Regular Expressions RegEx
+- **RegEx and Ruby Guide** ( https://www.bluebox.net/insight/blog-article/using-regular-expressions-in-ruby-part-1-of-3 )
 - **Rubular** ( http://rubular.com )
 - **RegEx in JavaScript** ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions )
