@@ -13,6 +13,9 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Rails 4 in Action** ( http://www.manning.com/bigg2/ )
 - **Agile Web Development with Rails 4** ( http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564 )
 
+### Testing 
+
+
 ### Object-oriented programming (OOP)
 
 - **Practical Object-Oriented Design in Ruby (POODR)** ( http://www.poodr.com )  Amazing book. Advanced OOP and code design topics.
