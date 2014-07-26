@@ -16,6 +16,7 @@ I wanted to make a list of some of the best resources for someone who is learnin
 ### Testing 
 - **RSpec Website** ( http://rspec.info )
 - **RSpec with shoulda-matchers** ( https://github.com/thoughtbot/shoulda )
+- **Rails testing** ( http://everydayrails.com/2012/03/12/testing-series-intro.html )  How I learned to test my Rails applications
 
 ### Object-oriented programming (OOP)
 
