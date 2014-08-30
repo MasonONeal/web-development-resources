@@ -37,6 +37,7 @@ I wanted to make a list of some of the best resources for someone who is learnin
 #### CSS
 - **CSS Positioning 101** ( http://alistapart.com/article/css-positioning-101 )  Describes all of the types of positioning and when and how to use them.
 - **CSS Box Model** ( http://css-tricks.com/the-css-box-model/ )  Explains the box model, including how margins, paddings and borders work.
+- **Learn CSS Layout** ( http://learnlayout.com/ ) Good intro to layout in CSS.
 
 ### Git
 - **Pro Git** by Scott Chacon  ( http://www.git-scm.com/doc )  Excellent online book - covers the basics
