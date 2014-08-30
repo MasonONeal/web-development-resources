@@ -34,6 +34,10 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Rails Routing from the Outside In**  ( http://guides.rubyonrails.org/routing.html )  Key reference to REST
 - **A Beginner's Guide to HTTP and REST** ( http://code.tutsplus.com/tutorials/a-beginners-introduction-to-http-and-rest--net-16340 )  One of the clearest explanations of REST online.
 
+#### CSS
+- [CSS Positioning 101](http://alistapart.com/article/css-positioning-101)
+  - Describes in plain language all the types of positioning and when and how to use them.
+
 ### Git
 - **Pro Git** by Scott Chacon  ( http://www.git-scm.com/doc )  Excellent online book - covers the basics
 - **tryGit**  ( https://www.codeschool.com/courses/try-git )  Online course - basic intro to Git 
