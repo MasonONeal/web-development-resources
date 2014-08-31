@@ -25,7 +25,7 @@ I wanted to make a list of some of the best resources for someone who is learnin
 
 ### Javascript
 - **Ruby course at Code Academy** ( http://www.codecademy.com/tracks/javascript )  Online coding lessons, beginning level.
-- **JavaScript Step by Step** ( http://www.amazon.com/JavaScript-Step-3rd-Edition-Developer/dp/0735665931 )  Nice bbook on Javascript. Well organized, and had clear explanations of concepts.
+- **JavaScript Step by Step** ( http://www.amazon.com/JavaScript-Step-3rd-Edition-Developer/dp/0735665931 )  Nice book on Javascript. Well organized, and had clear explanations of concepts.
 
 ### Web Development 
 
