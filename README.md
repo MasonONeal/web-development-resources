@@ -13,6 +13,9 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Rails 4 in Action** ( http://www.manning.com/bigg2/ )
 - **Agile Web Development with Rails 4** ( http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564 )
 
+### Sinarta
+- **
+
 ### Testing 
 - **RSpec Website** ( http://rspec.info )
 - **RSpec with shoulda-matchers** ( https://github.com/thoughtbot/shoulda )
@@ -27,7 +30,7 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Ruby course at Code Academy** ( http://www.codecademy.com/tracks/javascript )  Online coding lessons, beginning level.
 - **JavaScript Step by Step** ( http://www.amazon.com/JavaScript-Step-3rd-Edition-Developer/dp/0735665931 )  Nice book on Javascript. Well organized, and had clear explanations of concepts.
 - **JavaScript: The Good Parts** ( http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 )  
-- **Secrets of the JavaScript Ninja**
+- **Secrets of the JavaScript Ninja** ( http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X )
 
 
 ### Web Development 
