@@ -1,7 +1,7 @@
 Web Development Resources
 =========================
 
-I wanted to make a list of some of the best resources for someone who is learning web development. If you know of another good resource, please send it to me in a message so I can add to this list.
+This is a list of some of the best resources for someone who is learning web development. If you know of other good resources, please send them to me so I can add to this list.
 
 ### Ruby  
 - **Ruby course at Code Academy** ( http://www.codecademy.com/en/tracks/ruby )  Online coding lessons, beginning level.
