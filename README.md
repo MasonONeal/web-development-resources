@@ -14,7 +14,7 @@ I wanted to make a list of some of the best resources for someone who is learnin
 - **Agile Web Development with Rails 4** ( http://www.amazon.com/Agile-Development-Rails-Facets-Ruby/dp/1937785564 )
 
 ### Sinarta
-- **
+- **Sinatra: Up and Running** ( http://www.amazon.com/Sinatra-Up-Running-Alan-Harris/dp/1449304230 )
 
 ### Testing 
 - **RSpec Website** ( http://rspec.info )
