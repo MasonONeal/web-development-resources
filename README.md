@@ -7,6 +7,7 @@ This is a list of some of the best resources for someone who is learning web dev
 - **Ruby course at Code Academy** ( http://www.codecademy.com/en/tracks/ruby )  Online coding lessons, beginning level.
 - **The Well-Grounded Rubyist** ( http://www.manning.com/black2/ )  Excellent book, clear explanations, comprehensive. Recommended after you have the basics down.
 - **Learn to Program** ( https://pine.fm/LearnToProgram/ )  Intro to programming in Ruby, by Chris Pine. This short book is avaliable online.
+- ** Ruby Style  ** ( https://github.com/styleguide/ruby )  Excellent as a reference and a review of Ruby.
 
 ### Rails
 
