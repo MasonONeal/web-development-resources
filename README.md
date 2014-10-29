@@ -25,8 +25,8 @@ This is a list of some of the best resources for someone who is learning web dev
 ### Object-oriented programming (OOP)
 
 - **Objects in Ruby, Zetcode** ( http://zetcode.com/lang/rubytutorial/objects/ ) Excellect overview of Objects in Ruby
-- **Objects in Ruby, Zetcode** (  ) 
-- **Objects in Ruby, Zetcode** (  ) 
+- **Object-oriented programming in Ruby (Part 1), Zetcode** ( http://zetcode.com/lang/rubytutorial/oop/ ) 
+- **Object-oriented programming in Ruby (Part 2), Zetcode** ( http://zetcode.com/lang/rubytutorial/oop/ ) 
 - **Practical Object-Oriented Design in Ruby (POODR)** ( http://www.poodr.com )  Amazing book. Advanced OOP and code design topics.
 
 
