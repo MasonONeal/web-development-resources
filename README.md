@@ -24,6 +24,7 @@ This is a list of some of the best resources for someone who is learning web dev
 
 ### Object-oriented programming (OOP)
 
+- **Objects in Ruby, Zetcode** (
 - **Practical Object-Oriented Design in Ruby (POODR)** ( http://www.poodr.com )  Amazing book. Advanced OOP and code design topics.
 
 
