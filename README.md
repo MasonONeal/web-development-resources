@@ -33,6 +33,7 @@ This is a list of some of the best resources for someone who is learning web dev
 
 ### Javascript
 - **Ruby course at Code Academy** ( http://www.codecademy.com/tracks/javascript )  Online coding lessons, beginning level.
+- **JavaScript: A Beginner's Guide, 4th Edition** (
 - **JavaScript Step by Step** ( http://www.amazon.com/JavaScript-Step-3rd-Edition-Developer/dp/0735665931 )  Nice book on Javascript. Well organized, and had clear explanations of concepts.
 - **JavaScript: The Good Parts** ( http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742 )  
 - **Secrets of the JavaScript Ninja** ( http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X )
