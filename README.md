@@ -61,3 +61,6 @@ This is a list of some of the best resources for someone who is learning web dev
 - **RegEx and Ruby Guide** ( https://www.bluebox.net/insight/blog-article/using-regular-expressions-in-ruby-part-1-of-3 )
 - **Rubular** ( http://rubular.com )
 - **RegEx in JavaScript** ( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions )
+
+### Linux/bash
+- **Learning the shell tutorial** (  http://linuxcommand.org/lc3_learning_the_shell.php  )  Excellent beginner-level shell/bash tutorial.
